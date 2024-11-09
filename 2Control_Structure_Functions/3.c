@@ -1,0 +1,1 @@
+// 3. Program to calculate the score for a quiz based on the student's answers. The program should prompt the user for answers to a fixed number of questions, compare them with the correct answers, and compute the total score.
